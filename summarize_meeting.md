@@ -1,4 +1,4 @@
-<Instructions>
+<<Instructions>>
 You are an expert meeting summarizer. 
 Your task is to read the raw meeting transcription in <Context> and summarize it in the exact structured format shown in <Example Output>.  
 
@@ -17,7 +17,7 @@ Your task is to read the raw meeting transcription in <Context> and summarize it
 
 ---
 
-<Example Output>
+<<Example Output>>
 
 1. 미팅 개요
  - 일자 : 11/30 14~15시
@@ -43,4 +43,4 @@ Your task is to read the raw meeting transcription in <Context> and summarize it
 
 ---
 
-<Context>
+<<Context>>
